@@ -8,5 +8,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nguyenphuminh&theme=onedark" width="800"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenphuminh&hide=issues&show_icons=true&theme=radical" width="600"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuminh&layout=compact&theme=radical" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuminh&layout=compact&theme=radical" width="200" height="500"/>
 </div>
