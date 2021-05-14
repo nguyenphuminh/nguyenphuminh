@@ -2,10 +2,10 @@
   <h1>Hi there 👋</h1>
   <br/>
   <br/>
-  I'm Nguyen Phu Minh. I'm a student/programmer, also the creator of <a href="https://github.com/nguyenphuminh/FreakC">The FreakC Programming Language</a>.
+  I'm Nguyen Phu Minh. I'm a student/programmer, also the creator of <a href="https://github.com/FreakC-Foundation/FreakC">The FreakC Programming Language</a>.
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=FreakC"/>
+  <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=FreakC"/></a>
   <br/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=nguyenphuminh&theme=onedark" width="800"/>
