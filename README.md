@@ -2,7 +2,7 @@
   <h1>Hi there 👋</h1>
   <br/>
   <br/>
-  I'm Nguyen Phu Minh, just a student/programmer
+  I'm Nguyen Phu Minh, just a programmer who eats jelly
   <br/>
   <br/>
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=FreakC"/></a>
