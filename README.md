@@ -6,8 +6,8 @@
   <br/>
   <br/>
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=FreakC"/></a>
-  <a href="https://github.com/nguyenphuminh/rottenjs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=rottenjs"/></a>
   <br/>
+  <a href="https://github.com/nguyenphuminh/rottenjs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=rottenjs"/></a>
   <a href="https://github.com/nguyenphuminh/VNC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=VNC"/></a>
   <br/>
   <br/>
