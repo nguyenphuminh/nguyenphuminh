@@ -10,5 +10,6 @@
   <br/>
   <a href="https://github.com/nguyenphuminh/HelloWorld"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=HelloWorld"/></a>
   <br/>
-  Like the project? Please leave a star to support me ❤️
+  <br/>
+  Like the projects? Please leave a star to support me ❤️
 </div>
