@@ -9,4 +9,6 @@
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
   <br/>
   <a href="https://github.com/nguyenphuminh/HelloWorld"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=HelloWorld"/></a>
+  <br/>
+  Like the project? Please leave a star to support me ❤️
 </div>
