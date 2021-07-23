@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi there 👋</h1>
+  <h1>print[] Hello there from FreakC 👋</h1>
   <br/>
   <br/>
-  I'm Nguyen Phu Minh, just a programmer, here are my main projects:
+  I'm Nguyen Phu Minh, just a normal programmer, creator of FreakC Programming Language, love scripting in Javascript and FreakC, interested in language design, unique languages and esolangs. Here are my main projects:
   <br/>
   <br/>
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
