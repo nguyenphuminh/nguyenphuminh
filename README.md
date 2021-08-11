@@ -17,6 +17,7 @@
   Like 
   the projects? Please leave a star to support me ❤️
   <br/>
+  <hr/>
   <br/>
   I'm also in the dev team of this really cool language "Cassidy", consider checking it out:
   <a href="https://github.com/cassidylang/cassidy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cassidylang&repo=cassidy"/></a>
