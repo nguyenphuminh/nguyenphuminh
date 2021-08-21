@@ -2,7 +2,7 @@
   <h1>print[] Hello there from FreakC 👋</h1>
   <br/>
   <br/>
-  <div style="width: 50%">I'm Nguyen Phu Minh, just a normal programmer, creator of FreakC Programming Language, love scripting in Javascript and FreakC, interested in language design, unique languages and esolangs. I'm fluent in Javascript, FreakC/Batch and Pascal. I'm currently learning web dev and game dev, (might create a programming language for both in the future 🙂).</div>
+  <div style="width: 50px">I'm Nguyen Phu Minh, just a normal programmer, creator of FreakC Programming Language, love scripting in Javascript and FreakC, interested in language design, unique languages and esolangs. I'm fluent in Javascript, FreakC/Batch and Pascal. I'm currently learning web dev and game dev, (might create a programming language for both in the future 🙂).</div>
   <br/>
   <br/>
   Here are my main projects:
