@@ -1,8 +1,14 @@
 <div align="center">
   <h1>print[] Hello there from FreakC 👋</h1>
+</div>
+<br/>
+<div>
+  Hi! I'm Minh, creator of the FreakC Programming Language and love scripting in Javascript and FreakC, interested in language design, unique languages and esolangs. 
   <br/>
+  I'm fluent in Javascript and FreakC/Batch, a Lua hobbyist, a mediocre Pascal and C++ competitive programmers, a beginner in Elixir and a language enthusiast!
   <br/>
-  <div>I'm Nguyen Phu Minh, just a normal programmer, creator of FreakC Programming Language, love scripting in Javascript and FreakC, interested in language design, unique languages and esolangs. I'm fluent in Javascript, FreakC/Batch and Pascal. I'm currently learning web dev and game dev, (might create a programming language for both in the future 🙂).</div>
+</div>
+<div align="center">
   <br/>
   <br/>
   Here are my main projects:
