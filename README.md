@@ -3,7 +3,7 @@
 </div>
 <br/>
 <div>
-  Hi! I'm Minh, creator of the FreakC Programming Language and love scripting in Javascript and FreakC, interested in language design, unique languages and esolangs. I'm fluent in Javascript and FreakC/Batch, a Lua hobbyist, a mediocre Pascal and C++ competitive programmers, a beginner in Elixir and a language enthusiast!
+  Hi! I'm Minh, creator of the FreakC Programming Language and love scripting in front-end Javascript (love Vue and Lucia) and FreakC, interested in language design, unique languages and esolangs. I'm fluent in Javascript and FreakC/Batch, a Lua hobbyist, a mediocre Pascal and C++ competitive programmers, a beginner in Elixir and a language enthusiast!
   <br/>
 </div>
 <div align="center">
