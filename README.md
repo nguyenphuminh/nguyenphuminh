@@ -9,7 +9,13 @@
 <div align="center">
   <br/>
   Please star my precious little programming language:
-  <br/><br/>
+  <br/>
+  <br/>
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
+  <br/>
+  <br/>
+  <br/>
+  And my other project too:
+  <a href="https://github.com/nguyenphuminh/HelloWorld"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=HelloWorld"/></a>
   <br/>
 </div>
