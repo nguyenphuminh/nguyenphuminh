@@ -1,23 +1,18 @@
 <div align="center">
-  <h1>print[] Hello there from FreakC 👋</h1>
+  <h1>print[] Hello there 👋</h1>
 </div>
-<br/>
-<div>
-  Hi! I'm Minh, creator of the FreakC Programming Language and love scripting in front-end Javascript (love Vue and Lucia) and FreakC, interested in language design, unique languages and esolangs. I'm fluent in Javascript and FreakC/Batch, a Lua hobbyist, a mediocre Pascal and C++ competitive programmers, a beginner in Elixir and a language enthusiast! I'm currently learning Solidity too, but I haven't known much about it.
-  <br/>
-</div>
-<div align="center">
-  <br/>
-  My main project probably:
-  <br/>
-  <br/>
-  <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
-  <br/>
-  <br/>
-  <br/>
-  And my other project too:
-  <br/>
-  <br/>
-  <a href="https://github.com/nguyenphuminh/HelloWorld"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=HelloWorld"/></a>
-  <br/>
-</div>
+
+## About me 📓
+I'm Minh, a high-school student, creator of the FreakC Programming Language, Javascript fan, fluent in Javascript and FreakC/Batch, a mediocre Pascal and C++ competitive programmer.
+
+I'm currently studying blockchains and stuffs like that. I do game dev in my free time with the bois btw.
+
+## My projects
+<a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
+<a href="https://github.com/nguyenphuminh/HelloWorld"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=HelloWorld"/></a>
+
+## Contact ☎️
+Find me on:
+* [Facebook](https://www.facebook.com/minh.nguyenphu.77715)
+* [Youtube](https://www.youtube.com/channel/UCfoL6jxesUq0urUHBqXY1WA)
+* [dev.to](https://dev.to/freakcdev297)
