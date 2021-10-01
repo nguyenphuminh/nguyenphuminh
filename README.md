@@ -12,6 +12,10 @@ I'm currently studying blockchains and stuffs like that, and have got pretty int
 <br/>
 <a href="https://github.com/nguyenphuminh/HelloWorld"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=HelloWorld"/></a>
 
+## My *dumb* repos
+* [discord.fclang](https://github.com/FreakC-Foundation/discord.fclang) - A crappy discord api wrapper for FreakC.
+* [JellyAV](https://github.com/nguyenphuminh/JellyAV) - A probably-not-gonna-work antivirus program written just for fun in Batch.
+
 ## Contact ☎️
 Find me on:
 * [Facebook](https://www.facebook.com/minh.nguyenphu.77715)
