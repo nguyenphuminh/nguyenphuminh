@@ -18,6 +18,4 @@ I'm currently studying blockchains and stuffs like that, and have got pretty int
 
 ## Contact ☎️
 Find me on:
-* [Facebook](https://www.facebook.com/minh.nguyenphu.77715)
-* [Youtube](https://www.youtube.com/channel/UCfoL6jxesUq0urUHBqXY1WA)
 * [dev.to](https://dev.to/freakcdev297)
