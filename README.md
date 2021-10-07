@@ -13,11 +13,12 @@ I do game dev in my free time with the bois btw.
 * Front-end web development.
 * Game development.
 * Competitive programming.
+* Knows stuffs about language design I guess 😕.
 * I have known more than 30 programming languages, but I mostly use Javascript, Pascal, C++, GDScript, FreakC, Batch.
 
 ## Nice events 📆
 * 2020: Placed 5th, won the 🥈 in HongKong International Computational Olympiad.
-* 2020: Created FreakC, which is my first big project considering how simple it is.
+* 2020: Created FreakC, which is my first big project considering how simple (and crappy-code-infested) it is.
 
 ## My projects 🤩
 <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
