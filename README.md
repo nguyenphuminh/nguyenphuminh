@@ -31,6 +31,9 @@ I do game dev in my free time with the bois btw.
 * [discord.fclang](https://github.com/FreakC-Foundation/discord.fclang) - A crappy discord api wrapper for FreakC.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - A probably-not-gonna-work antivirus program written just for fun in Batch.
 
+## Hire me?
+I'm not looking for a job (school is so busy 😢), but if you have a nice, j4f project with friends, I can join/help 😺.
+
 ## Contact ☎️
 Find me on:
 * [dev.to](https://dev.to/freakcdev297)
