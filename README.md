@@ -3,9 +3,9 @@
 <br/>
 
 ## About me 📓
-I'm Minh, a high-school student, founder of FreakC Foundation creator of the FreakC Programming Language, Javascript fan, fluent in Javascript and FreakC/Batch, a mediocre Pascal and C++ competitive programmer.
+I'm Minh, a high-school student, founder of FreakC Foundation, creator of the FreakC Programming Language, Javascript fan, fluent in Javascript and FreakC/Batch, a mediocre Pascal and C++ competitive programmer.
 
-I'm currently studying blockchains and stuffs like that, and have got pretty interested in Near, a super fast, low-cost dApp platform. 
+I'm currently studying blockchains and stuffs like that, and have got pretty interested in Near - a super fast, low-cost dApp platform. 
 
 I do game dev in my free time with the bois btw.
 
@@ -14,7 +14,7 @@ I do game dev in my free time with the bois btw.
 * Game development.
 * Competitive programming.
 * Knows stuffs about language design I guess 😕.
-* I have known more than 30 programming languages, but I mostly use Javascript, Pascal, C++, GDScript, FreakC, Batch.
+* I know a good amount of programming languages, but I mostly use Javascript, Pascal, C++, GDScript, FreakC, Batch.
 
 ## Nice events 📆
 * 2020: Placed 5th, won the 🥈 in HongKong International Computational Olympiad.
