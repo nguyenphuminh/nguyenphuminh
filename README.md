@@ -9,6 +9,8 @@ I'm currently studying blockchains and stuffs like that, and have got pretty int
 
 I do game dev in my free time with the bois btw.
 
+Interested in programming languages too, there was a time that I'm obsessed with languages, especially esolangs or unique ones. Now I still like them, but not seriously addicted to them anymore lol.
+
 ## Skills 💪
 * Front-end web development.
 * Game development.
