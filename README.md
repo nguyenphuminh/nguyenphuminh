@@ -3,13 +3,11 @@
 <br/>
 
 ## About me 📓
-I'm Minh, a high-school student, founder of FreakC Foundation, creator of the FreakC Programming Language, Javascript fan, fluent in Javascript and FreakC/Batch, a mediocre Pascal and C++ competitive programmer.
+I'm Minh, a high-school student, Javascript fan, fluent in Javascript and FreakC/Batch, a mediocre Pascal and C++ competitive programmer.
 
 I'm currently studying blockchains and stuffs like that, and have got pretty interested in Near - a super fast, low-cost dApp platform. 
 
 I do game dev in my free time with the bois btw.
-
-I'm Interested in programming languages too. There was a time that I'm obsessed with languages (especially esolangs or unique ones). Now I still like them, but not seriously addicted to them anymore lol.
 
 ## Skills 💪
 * Front-end web development.
@@ -23,9 +21,9 @@ I'm Interested in programming languages too. There was a time that I'm obsessed 
 * 2020: Created FreakC, which is my first big project considering how simple (and crappy-code-infested) it is.
 
 ## My projects 🤩
-<a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
-<br/>
 <a href="https://github.com/cassidylang/cassidy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cassidylang&repo=cassidy"/></a>
+<br/>
+<a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
 <br/>
 <a href="https://github.com/nguyenphuminh/HelloWorld"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=HelloWorld"/></a>
 <br/>
