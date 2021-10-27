@@ -32,6 +32,7 @@ Drop a star if you like.
 ## My *dumb* repos 😕
 * [discord.fclang](https://github.com/FreakC-Foundation/discord.fclang) - A crappy discord api wrapper for FreakC.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - A probably-not-gonna-work antivirus program written just for fun in Batch.
+* [JeChain](https://github.com/nguyenphuminh/JeChain) - An useless blockchain.
 
 ## Hire me?
 I'm not looking for a job (school is so busy 😢), but if you have a nice, j4f project with friends, I can join/help 😺.
