@@ -29,6 +29,9 @@ I do game dev in my free time with the bois btw.
 <br/>
 Drop a star if you like.
 
+### My articles
+* [Creating a blockchain in 60 lines of Javascript](https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka)
+
 ## My *dumb* repos 😕
 * [discord.fclang](https://github.com/FreakC-Foundation/discord.fclang) - A crappy discord api wrapper for FreakC.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - A probably-not-gonna-work antivirus program written just for fun in Batch.
