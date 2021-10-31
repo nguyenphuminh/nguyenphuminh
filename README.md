@@ -22,11 +22,9 @@ I do game dev in my free time with the bois btw.
 
 ## My projects 🤩
 <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
-<br/>
-<a href="https://github.com/cassidylang/cassidy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cassidylang&repo=cassidy"/></a>
-<br/>
 <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
 <br/>
+<a href="https://github.com/cassidylang/cassidy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cassidylang&repo=cassidy"/></a>
 <a href="https://github.com/nguyenphuminh/HelloWorld"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=HelloWorld"/></a>
 <br/>
 Drop a star if you like.
