@@ -19,6 +19,7 @@ I do game dev in my free time with the bois btw.
 ## Nice events 📆
 * 2020: Placed 5th, won the 🥈 in HongKong International Computational Olympiad.
 * 2020: Created FreakC, which is my first big project considering how simple (and crappy-code-infested) it is.
+* 2021: Created JeChain blockchain tutorial series 😍.
 
 ## My projects 🤩
 <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
