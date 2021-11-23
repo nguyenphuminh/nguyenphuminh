@@ -3,9 +3,9 @@
 <br/>
 
 ## About me 📓
-I'm Minh, a coding enthusiast, Javascript fan, fluent in Javascript and FreakC/Batch, a Pascal and C++ competitive programmer.
+I'm Minh, a blockchain enthusiast, Javascript fan, fluent in Javascript and FreakC/Batch, a Python and C++ competitive programmer.
 
-I'm currently diving deep into blockchains, but sometimes I do some game development.
+I'm currently diving deep into blockchains, but sometimes I do game development.
 
 ## Skills 💪
 * Front-end web development.
@@ -28,6 +28,7 @@ Drop a star to support me!
 ## Contact ☎️
 Find me on:
 * Gmail: nguyenphuminh09876543@gmail.com
+* [Youtube](https://www.youtube.com/channel/UCfoL6jxesUq0urUHBqXY1WA)
 * [dev.to](https://dev.to/freakcdev297)
 * [Twitter](https://twitter.com/NguynPhMinh8)
 * [Viblo](https://viblo.asia/u/freakcdev)
