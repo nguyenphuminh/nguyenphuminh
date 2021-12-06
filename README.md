@@ -8,7 +8,7 @@ I'm Minh, a blockchain enthusiast, Javascript fan, fluent in Javascript and Frea
 I'm currently diving deep into blockchains, but sometimes I do game development.
 
 ## Skills 💪
-* Front-end web development.
+* Front-end and back-end development.
 * Game development.
 * Competitive programming.
 * Language design.
