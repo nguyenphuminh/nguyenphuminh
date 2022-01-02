@@ -8,7 +8,7 @@ I'm Minh, a blockchain enthusiast, Javascript fan, fluent in Javascript and Frea
 I'm currently diving deep into blockchains, but sometimes I do game development.
 
 ## Skills 💪
-* Front-end and back-end development.
+* Fullstack development.
 * Game development.
 * Competitive programming.
 * Language design.
@@ -22,8 +22,11 @@ I'm currently diving deep into blockchains, but sometimes I do game development.
 <br/>
 Drop a star to support me!
 
-### My articles
-* [Creating a blockchain in 60 lines of Javascript](https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka)
+### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
+Check out each parts in the series:
+* [Creating a blockchain in 60 lines of Javascript ](https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka).
+* [Creating a cryptocurrency - Creating transactions, mining rewards, mint and gas fee ](https://dev.to/freakcdev297/creating-transactions-mining-rewards-mint-and-gas-fee-5hhf).
+* [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
 
 ## Contact ☎️
 Find me on:
