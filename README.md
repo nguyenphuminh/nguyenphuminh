@@ -19,13 +19,6 @@ I'm currently diving deep into blockchains, but sometimes I do game development.
 <br/>
 Drop a star to support me!
 
-### My "just for fun" projects
-* [HelloWorld - Collection of Hello World programs written in multiple languages](https://github.com/nguyenphuminh/HelloWorld).
-* [Reval - An extremely lightweight (0.5kb), experimental, React-like front-end library ](https://github.com/nguyenphuminh/reval).
-* [Dumbleq - A Subleq VM](https://github.com/nguyenphuminh/dumbleq).
-* [JellyAV - A small, experimental antivirus program written in Batch](https://github.com/nguyenphuminh/JellyAV).
-* [VNC - A programming language for Vietnamese](https://github.com/nguyenphuminh/VNC).
-
 ### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
 Check out each parts in the series:
 * [Creating a blockchain in 60 lines of Javascript ](https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka).
