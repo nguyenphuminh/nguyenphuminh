@@ -3,11 +3,12 @@
 <br/>
 
 ## About me 📓
-I'm Minh, a blockchain enthusiast, Javascript fan, fluent in Javascript and FreakC/Batch, a Python and C++ competitive programmer.
+I'm Minh, a blockchain enthusiast, Javascript developer, fluent in Javascript and FreakC/Batch, a Python and C++ competitive programmer.
 
-I'm currently diving deep into blockchains, but sometimes I do game development.
+I'm currently developing my own blockchain network while actively doing researches and writing contents in the field.
 
 ## Skills 💪
+* Blockchain development.
 * Fullstack development.
 * Game development.
 * Competitive programming.
