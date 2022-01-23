@@ -3,16 +3,19 @@
 <br/>
 
 ## About me 📓
-I'm Minh, a blockchain enthusiast, Javascript developer, fluent in Javascript and FreakC/Batch, a Python and C++ competitive programmer.
-
-I'm currently developing my own blockchain network while actively doing researches and writing contents in the field.
+I'm Minh, a blockchain enthusiast who is currently developing his own blockchain network while actively doing researches and writing contents in the field. Recently, I have getting into journalism.
 
 ## Skills 💪
 * Blockchain development.
-* Fullstack development.
+* Fullstack web development.
 * Game development.
 * Competitive programming.
 * Language design.
+
+## Achievements 🎊
+* Awarded top author on dev.to in 2021. 
+* Created JeChain - a smart contract supported blockchain network.
+* Won the silver medal and placed 5th at HKICO in 2020.
 
 ## My projects 🤩
 <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
