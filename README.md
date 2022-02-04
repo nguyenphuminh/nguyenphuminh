@@ -6,7 +6,6 @@
 I'm Minh, a blockchain enthusiast who is currently developing his own blockchain network while actively doing researches and writing contents in the field. Recently, I have getting into journalism.
 
 ## Skills 💪
-* Blockchain core development (both core dev and dapp dev).
 * Fullstack web development.
 * Game development.
 * Competitive programming.
