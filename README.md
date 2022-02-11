@@ -3,7 +3,7 @@
 <br/>
 
 ## About me 📓
-I'm Linh, a blockchain enthusiast who is currently developing his own blockchain network while actively doing researches and writing contents in the field. Recently, I have been getting into journalism.
+I'm Minh, a blockchain enthusiast who is currently developing his own blockchain network while actively doing researches and writing contents in the field. Recently, I have been getting into journalism.
 
 ## Skills 💪
 * Fullstack web development.
