@@ -11,6 +11,8 @@ I'm Minh, a blockchain enthusiast who is currently developing his own blockchain
 * Competitive programming.
 * Language design.
 
+Blockchain infra dev next?
+
 ## Achievements 🎊
 * Awarded top author on dev.to in 2021. 
 * Created JeChain - a smart contract supported blockchain network.
