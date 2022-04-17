@@ -16,7 +16,6 @@ Blockchain infra dev next?
 ## Achievements 🎊
 * Awarded top author on dev.to in 2021. 
 * Created JeChain - a smart contract supported blockchain network.
-* Won the silver medal and placed 5th at HKICO in 2020.
 
 ## My projects 🤩
 <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
