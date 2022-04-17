@@ -24,7 +24,7 @@ Blockchain infra dev next?
 Drop a star to support me!
 
 ### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
-Check out each parts in the series:
+Check out each part in the series:
 * [Creating a blockchain in 60 lines of Javascript ](https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka).
 * [Creating a cryptocurrency - Creating transactions, mining rewards, mint and gas fee ](https://dev.to/freakcdev297/creating-transactions-mining-rewards-mint-and-gas-fee-5hhf).
 * [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
