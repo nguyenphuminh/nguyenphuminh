@@ -10,6 +10,7 @@ I'm Minh, a blockchain enthusiast who is currently developing his own blockchain
 * Game development.
 * Competitive programming.
 * Language design.
+* Content writer?
 
 Blockchain infra dev next?
 
