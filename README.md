@@ -19,8 +19,8 @@ Blockchain infra dev next?
 * Created JeChain - a smart contract supported blockchain network.
 
 ## My projects 🤩
-<a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
-<a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
+* [JeChain - an experimental smart contract blockchain network.](https://github.com/nguyenphuminh/JeChain)
+* [FreakC - FreakC Programming Language - an experimental Batch-like language written in Batch which compiles to Batch.](https://github.com/FreakC-Foundation/FreakC)
 <br/>
 Drop a star to support me!
 
