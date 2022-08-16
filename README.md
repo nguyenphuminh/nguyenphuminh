@@ -5,6 +5,11 @@
 ## About me 📓
 I'm Minh, a blockchain enthusiast who is currently developing his own blockchain network while actively doing researches and writing contents in the field. Recently, I have been getting into journalism.
 
+## Achievements 🎊
+* **Won the 2022 Polkadot Hackathon: North America Edition - ICE Network Challenge.**
+* Awarded top author on dev.to in 2021. 
+* Created JeChain - a smart contract supported blockchain network.
+
 ## Skills 💪
 * Fullstack web development.
 * Game development.
@@ -13,10 +18,6 @@ I'm Minh, a blockchain enthusiast who is currently developing his own blockchain
 * Content writer?
 
 Blockchain infra dev next?
-
-## Achievements 🎊
-* Awarded top author on dev.to in 2021. 
-* Created JeChain - a smart contract supported blockchain network.
 
 ## My projects 🤩
 <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
