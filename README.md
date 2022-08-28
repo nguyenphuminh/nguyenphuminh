@@ -3,7 +3,7 @@
 <br/>
 
 ## About me 📓
-I'm Minh, a blockchain enthusiast who is currently developing his own blockchain network while actively doing researches and writing contents in the field. Recently, I have been getting into journalism.
+I'm Minh, a blockchain and distributed systems enthusiast who is currently developing his own blockchain network while actively doing researches and writing contents in the field. Recently, I have been getting into journalism.
 
 ## Achievements 🎊
 * **Won the 2022 Polkadot Hackathon: North America Edition - ICE Network Challenge.**
@@ -17,7 +17,7 @@ I'm Minh, a blockchain enthusiast who is currently developing his own blockchain
 * Language design.
 * Content writer?
 
-Blockchain infra dev next?
+I'm also doing blockchain infra dev and messing with distributed systems.
 
 ## My projects 🤩
 <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
