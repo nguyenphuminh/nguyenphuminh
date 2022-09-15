@@ -6,6 +6,7 @@
 I'm Minh, a blockchain and distributed systems enthusiast who is currently developing his own blockchain network while actively doing researches and writing contents in the field. Recently, I have been getting into journalism.
 
 ## Achievements 🎊
+* **Won the 2022 Polygon BUIDL IT Hackathon.**
 * **Won the 2022 Polkadot Hackathon: North America Edition - ICE Network Challenge.**
 * Awarded top author on dev.to in 2021. 
 * Created JeChain - a smart contract supported blockchain network.
