@@ -26,6 +26,7 @@ I'm also doing blockchain infra dev and messing with distributed systems.
 <br/>
 <a href="https://github.com/bullet-network/bullet-network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bullet-network&repo=bullet-network"/></a>
 <a href="https://github.com/undao/undao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=undao&repo=undao"/></a>
+<br/>
 Drop a star to support me!
 
 ### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
