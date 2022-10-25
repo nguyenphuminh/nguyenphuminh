@@ -12,13 +12,13 @@ I'm Minh, a blockchain and distributed systems enthusiast who is currently devel
 * Created JeChain - a smart contract supported blockchain network.
 
 ## Skills 💪
+* Building distributed systems.
+* Blockchain infrastructure development.
 * Fullstack web development.
 * Game development.
 * Competitive programming.
 * Language design.
 * Content writer?
-
-I'm also doing blockchain infra dev and messing with distributed systems.
 
 ## My projects 🤩
 <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
