@@ -22,8 +22,9 @@ I'm Minh, a blockchain and distributed systems enthusiast who is currently devel
 
 ## My projects 🤩
 <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
-<a href="https://github.com/unpredictabledao/unpredictabledao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=unpredictabledao&repo=unpredictabledao"/></a>
 <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
+<br/>
+<a href="https://github.com/unpredictabledao/unpredictabledao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=unpredictabledao&repo=unpredictabledao"/></a>
 <br/>
 Drop a star to support me!
 
