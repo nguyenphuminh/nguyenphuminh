@@ -41,6 +41,7 @@ Check out each part in the series:
 * [Reval.js](https://github.com/nguyenphuminh/reval) - a 400 bytes React-like front-end library.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
 * [HelloWorld](https://github.com/nguyenphuminh/HelloWorld) - a list of Hello, World! programs written in hundreds of languages.
+* [PRU](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a simple solution to scale blockchains.
 * [Pigeon Blockchain](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a paper on building a blockchain network with pigeons.
 
 ## Contact ☎️
