@@ -26,6 +26,7 @@ I'm Minh, a blockchain and distributed systems enthusiast who is currently devel
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
   <br/>
   <a href="https://github.com/nguyenphuminh/Meow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=Meow"/></a>
+  <a href="https://github.com/nguyenphuminh/reval"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=reval"/></a>
 </div>
 <br/>
 Drop a star to support me!
@@ -37,8 +38,6 @@ Check out each part in the series:
 * [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
 
 ### My other j4f repos
-
-* [Reval.js](https://github.com/nguyenphuminh/reval) - a 400 bytes React-like front-end library.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
 * [HelloWorld](https://github.com/nguyenphuminh/HelloWorld) - a list of Hello, World! programs written in hundreds of languages.
 * [PRU](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a simple solution to scale blockchains.
