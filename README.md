@@ -3,7 +3,7 @@
 <br/>
 
 ## About me 📓
-I'm Minh, a blockchain and distributed systems enthusiast who is currently developing his own blockchain network while actively doing researches and writing contents in the field. Recently, I have been getting into journalism.
+I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be chaining blocks.
 
 ## Achievements 🎊
 * **Won the 2022 Polygon BUIDL IT Hackathon.**
@@ -20,7 +20,7 @@ I'm Minh, a blockchain and distributed systems enthusiast who is currently devel
 * Language design.
 * Content writer?
 
-## My projects 🤩
+## My personal projects 🤩
 <div align="center">
   <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
