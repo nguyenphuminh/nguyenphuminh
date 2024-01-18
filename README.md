@@ -25,7 +25,7 @@ I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be c
   <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
   <br/>
-  <a href="https://github.com/nguyenphuminh/Meow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=Meow"/></a>
+  <a href="https://github.com/nguyenphuminh/Catto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=Catto"/></a>
 </div>
 <br/>
 Drop a star to support me!
