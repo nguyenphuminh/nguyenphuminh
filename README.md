@@ -25,7 +25,7 @@ I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be c
   <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
   <br/>
-  <a href="https://github.com/nguyenphuminh/petite-lisp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=petite-lisp"/></a>
+  <a href="https://github.com/nguyenphuminh/cmdweb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=cmdweb"/></a>
   <a href="https://github.com/nguyenphuminh/Catto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=Catto"/></a>
 </div>
 <br/>
@@ -39,6 +39,9 @@ Check out each part in the series:
 
 ### My other j4f repos
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
+* [Petite Lisp](https://github.com/nguyenphuminh/petite-lisp) - a simple Lisp dialect that transpiles to JS.
+* [Casio Coding](https://github.com/nguyenphuminh/casio-coding) - documents on how to program on "non-programmable" Casio calculators.
+* [Reval](https://github.com/nguyenphuminh/reval) - 0.4 kb React-based front-end library code golf.
 * [HelloWorld](https://github.com/nguyenphuminh/HelloWorld) - a list of Hello, World! programs written in hundreds of languages.
 * [PRU](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a simple solution to scale blockchains.
 * [Pigeon Blockchain](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a paper on building a blockchain network with pigeons.
