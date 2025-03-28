@@ -42,6 +42,7 @@ Check out each part in the series:
 * [Petite Lisp](https://github.com/nguyenphuminh/petite-lisp) - a simple Lisp dialect that transpiles to JS.
 * [Casio Coding](https://github.com/nguyenphuminh/casio-coding) - documents on how to program on "non-programmable" Casio calculators.
 * [Reval](https://github.com/nguyenphuminh/reval) - 0.4 kb React-based front-end library code golf.
+* [cmdweb](https://github.com/nguyenphuminh/cmdweb) - a web framework for Batch.
 * [HelloWorld](https://github.com/nguyenphuminh/HelloWorld) - a list of Hello, World! programs written in hundreds of languages.
 * [PRU](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a simple solution to scale blockchains.
 * [Pigeon Blockchain](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a paper on building a blockchain network with pigeons.
