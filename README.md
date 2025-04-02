@@ -38,6 +38,7 @@ Check out each part in the series:
 * [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
 
 ### My other j4f repos
+* [CatBrain](https://github.com/nguyenphuminh/cmdweb) - a neural network library for JS.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
 * [Petite Lisp](https://github.com/nguyenphuminh/petite-lisp) - a simple Lisp dialect that transpiles to JS.
 * [Casio Coding](https://github.com/nguyenphuminh/casio-coding) - documents on how to program on "non-programmable" Casio calculators.
