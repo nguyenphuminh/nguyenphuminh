@@ -26,7 +26,7 @@ I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be c
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
   <br/>
   <a href="https://github.com/nguyenphuminh/smolsurf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=smolsurf"/></a>
-  <a href="https://github.com/nguyenphuminh/Catto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=Catto"/></a>
+  <a href="https://github.com/nguyenphuminh/catbrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catbrain"/></a>
 </div>
 <br/>
 Drop a star to support me!
@@ -38,7 +38,7 @@ Check out each part in the series:
 * [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
 
 ### My other j4f repos
-* [CatBrain](https://github.com/nguyenphuminh/cmdweb) - a neural network library for JS.
+* [Catto](https://github.com/nguyenphuminh/Catto) - an UCI chess engine.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
 * [Petite Lisp](https://github.com/nguyenphuminh/petite-lisp) - a simple Lisp dialect that transpiles to JS.
 * [Casio Coding](https://github.com/nguyenphuminh/casio-coding) - documents on how to program on "non-programmable" Casio calculators.
