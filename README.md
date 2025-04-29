@@ -22,11 +22,11 @@ I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be c
 
 ## My personal projects 🤩
 <div align="center">
+  <a href="https://github.com/nguyenphuminh/catbrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catbrain"/></a>
+  <a href="https://github.com/nguyenphuminh/smolsurf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=smolsurf"/></a>
+  <br/>
   <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
   <a href="https://github.com/FreakC-Foundation/FreakC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FreakC-Foundation&repo=freakc"/></a>
-  <br/>
-  <a href="https://github.com/nguyenphuminh/smolsurf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=smolsurf"/></a>
-  <a href="https://github.com/nguyenphuminh/catbrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catbrain"/></a>
 </div>
 <br/>
 Drop a star to support me!
