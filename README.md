@@ -37,6 +37,7 @@ Check out each part in the series:
 * [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
 
 ### My other j4f repos
+* [90deg](https://github.com/nguyenphuminh/90deg) - an OISC around vector dot product and addition.
 * [Catto](https://github.com/nguyenphuminh/Catto) - an UCI chess engine.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
 * [Petite Lisp](https://github.com/nguyenphuminh/petite-lisp) - a simple Lisp dialect that transpiles to JS.
