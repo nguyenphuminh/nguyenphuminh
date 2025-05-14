@@ -20,7 +20,7 @@ I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be c
 * Language design.
 * Content writer?
 
-## My personal projects 🤩
+## My main projects 🤩
 <div align="center">
   <a href="https://github.com/nguyenphuminh/catbrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catbrain"/></a>
   <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
@@ -37,7 +37,8 @@ Check out each part in the series:
 * [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
 
 ### My other j4f repos
-* [90deg](https://github.com/nguyenphuminh/90deg) - an OISC around vector dot product and addition.
+* [90deg](https://github.com/nguyenphuminh/90deg) - an OISC centered around vector dot product and addition.
+* [FreakC](https://github.com/FreakC-Foundation/FreakC) - an experimental Batch-like language that compiles to Batch.
 * [Catto](https://github.com/nguyenphuminh/Catto) - an UCI chess engine.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
 * [Petite Lisp](https://github.com/nguyenphuminh/petite-lisp) - a simple Lisp dialect that transpiles to JS.
