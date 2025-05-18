@@ -36,17 +36,20 @@ Check out each part in the series:
 * [Creating a cryptocurrency - Creating transactions, mining rewards, mint and gas fee ](https://dev.to/freakcdev297/creating-transactions-mining-rewards-mint-and-gas-fee-5hhf).
 * [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
 
+Or view source code of each part [here](https://github.com/nguyenphuminh/blockchain-tutorial).
+
 ### My other j4f repos
 * [90deg](https://github.com/nguyenphuminh/90deg) - an OISC centered around vector dot product and addition.
 * [FreakC](https://github.com/FreakC-Foundation/FreakC) - an experimental Batch-like language that compiles to Batch.
-* [Catto](https://github.com/nguyenphuminh/Catto) - an UCI chess engine.
-* [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
 * [Petite Lisp](https://github.com/nguyenphuminh/petite-lisp) - a simple Lisp dialect that transpiles to JS.
-* [Casio Coding](https://github.com/nguyenphuminh/casio-coding) - documents on how to program on "non-programmable" Casio calculators.
 * [Reval](https://github.com/nguyenphuminh/reval) - 0.4 kb React-based front-end library code golf.
 * [cmdweb](https://github.com/nguyenphuminh/cmdweb) - a web framework for Batch.
+* [brainsuck](https://github.com/nguyenphuminh/brainsuck) - web development... in Brainf*ck.
+* [Catto](https://github.com/nguyenphuminh/Catto) - an UCI chess engine.
+* [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
+* [Casio Coding](https://github.com/nguyenphuminh/casio-coding) - documents on how to program on "non-programmable" Casio calculators.
+* [Hufflime](https://github.com/nguyenphuminh/hufflime) - Sublime Text syntax highlighting for Huff.
 * [HelloWorld](https://github.com/nguyenphuminh/HelloWorld) - a list of Hello, World! programs written in hundreds of languages.
-* [PRU](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a simple solution to scale blockchains.
 * [Pigeon Blockchain](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a paper on building a blockchain network with pigeons.
 
 ## Contact ☎️
