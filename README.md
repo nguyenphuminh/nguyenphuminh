@@ -6,6 +6,7 @@
 I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be chaining blocks.
 
 ## Achievements 🎊
+* **Won the 2025 Core Global Gaming Hackathon.**
 * **Won the 2022 Polygon BUIDL IT Hackathon.**
 * **Won the 2022 Polkadot Hackathon: North America Edition - ICE Network Challenge.**
 * Awarded top author on dev.to in 2021. 
