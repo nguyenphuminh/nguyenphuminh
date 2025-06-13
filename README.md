@@ -22,13 +22,12 @@ I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be c
 * Content writer?
 
 ## My main projects 🤩
-<div align="center">
-  <a href="https://github.com/nguyenphuminh/catbrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catbrain"/></a>
-  <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
-  <br/>
-  <a href="https://github.com/nguyenphuminh/smolsurf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=smolsurf"/></a>
-</div>
+<a href="https://github.com/nguyenphuminh/catbrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catbrain"/></a>
+<a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
 <br/>
+<a href="https://github.com/nguyenphuminh/smolsurf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=smolsurf"/></a>
+<br/>
+
 Drop a star to support me!
 
 ### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
