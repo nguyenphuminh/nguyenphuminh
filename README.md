@@ -26,6 +26,8 @@ I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be c
 <br/>
 <a href="https://github.com/nguyenphuminh/catbrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catbrain"/></a>
 <br/>
+<a href="https://github.com/nguyenphuminh/catniff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catniff"/></a>
+<br/>
 <a href="https://github.com/nguyenphuminh/smolsurf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=smolsurf"/></a>
 <br/>
 
