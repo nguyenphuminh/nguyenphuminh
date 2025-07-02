@@ -26,9 +26,8 @@ I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be c
   <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
   <br/>
   <a href="https://github.com/nguyenphuminh/catbrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catbrain"/></a>
-  <a href="https://github.com/nguyenphuminh/catniff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catniff"/></a>
   <br/>
-  <a href="https://github.com/nguyenphuminh/smolsurf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=smolsurf"/></a>
+  <a href="https://github.com/nguyenphuminh/catniff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catniff"/></a>
 </div>
 
 Drop a star to support me!
@@ -42,6 +41,7 @@ Check out each part in the series:
 Or view source code of each part [here](https://github.com/nguyenphuminh/blockchain-tutorial).
 
 ### My other j4f repos
+* [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
 * [90deg](https://github.com/nguyenphuminh/90deg) - an OISC centered around vector dot product and addition.
 * [FreakC](https://github.com/FreakC-Foundation/FreakC) - an experimental Batch-like language that compiles to Batch.
 * [Petite Lisp](https://github.com/nguyenphuminh/petite-lisp) - a simple Lisp dialect that transpiles to JS.
