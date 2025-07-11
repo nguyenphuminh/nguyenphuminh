@@ -3,7 +3,7 @@
 <br/>
 
 ## About me 📓
-I'm Minh, a blockchain and distributed systems enthusiast, sometimes I just be chaining blocks.
+I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI as well.
 
 ## Achievements 🎊
 * **Won the 2025 Core Global Gaming Hackathon.**
