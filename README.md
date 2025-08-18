@@ -41,6 +41,7 @@ Check out each part in the series:
 Or view source code of each part [here](https://github.com/nguyenphuminh/blockchain-tutorial).
 
 ### My other j4f repos
+* [shakespeare-lm](https://github.com/nguyenphuminh/shakespeare-lm) - a tiny model to generate Shakespeare-style text, written in Catniff.
 * [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
 * [90deg](https://github.com/nguyenphuminh/90deg) - an OISC centered around vector dot product and addition.
 * [FreakC](https://github.com/FreakC-Foundation/FreakC) - an experimental Batch-like language that compiles to Batch.
