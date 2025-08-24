@@ -26,8 +26,6 @@ I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI 
   <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
   <br/>
   <a href="https://github.com/nguyenphuminh/catniff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catniff"/></a>
-  <br/>
-  <a href="https://github.com/nguyenphuminh/catbrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catbrain"/></a>
 </div>
 
 Drop a star to support me!
@@ -41,7 +39,9 @@ Check out each part in the series:
 Or view source code of each part [here](https://github.com/nguyenphuminh/blockchain-tutorial).
 
 ### My other j4f repos
+* [smallm](https://github.com/nguyenphuminh/smallm) - a tiny language model written and trained from scratch.
 * [shakespeare-lm](https://github.com/nguyenphuminh/shakespeare-lm) - a tiny model to generate Shakespeare-style text, written in Catniff.
+* [catbrain](https://github.com/nguyenphuminh/catbrain) - GPU accelerated neural networks made simple for Javascript.
 * [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
 * [90deg](https://github.com/nguyenphuminh/90deg) - an OISC centered around vector dot product and addition.
 * [FreakC](https://github.com/FreakC-Foundation/FreakC) - an experimental Batch-like language that compiles to Batch.
