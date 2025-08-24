@@ -15,6 +15,7 @@ I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI 
 ## Skills 💪
 * Building distributed systems.
 * Blockchain infrastructure development.
+* AI/ML/DL engineering.
 * Fullstack web development.
 * Game development.
 * Competitive programming.
