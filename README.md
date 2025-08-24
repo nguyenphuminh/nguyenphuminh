@@ -30,15 +30,7 @@ I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI 
 
 Drop a star to support me!
 
-### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
-Check out each part in the series:
-* [Creating a blockchain in 60 lines of Javascript ](https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka).
-* [Creating a cryptocurrency - Creating transactions, mining rewards, mint and gas fee ](https://dev.to/freakcdev297/creating-transactions-mining-rewards-mint-and-gas-fee-5hhf).
-* [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
-
-Or view source code of each part [here](https://github.com/nguyenphuminh/blockchain-tutorial).
-
-### My other j4f repos
+### My other repos
 * [smallm](https://github.com/nguyenphuminh/smallm) - a tiny language model written and trained from scratch.
 * [shakespeare-lm](https://github.com/nguyenphuminh/shakespeare-lm) - a tiny model to generate Shakespeare-style text, written in Catniff.
 * [catbrain](https://github.com/nguyenphuminh/catbrain) - GPU accelerated neural networks made simple for Javascript.
@@ -55,6 +47,14 @@ Or view source code of each part [here](https://github.com/nguyenphuminh/blockch
 * [Hufflime](https://github.com/nguyenphuminh/hufflime) - Sublime Text syntax highlighting for Huff.
 * [HelloWorld](https://github.com/nguyenphuminh/HelloWorld) - a list of Hello, World! programs written in hundreds of languages.
 * [Pigeon Blockchain](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a paper on building a blockchain network with pigeons.
+
+### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
+Check out each part in the series:
+* [Creating a blockchain in 60 lines of Javascript ](https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka).
+* [Creating a cryptocurrency - Creating transactions, mining rewards, mint and gas fee ](https://dev.to/freakcdev297/creating-transactions-mining-rewards-mint-and-gas-fee-5hhf).
+* [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
+
+Or view source code of each part [here](https://github.com/nguyenphuminh/blockchain-tutorial).
 
 ## Contact ☎️
 Find me on:
