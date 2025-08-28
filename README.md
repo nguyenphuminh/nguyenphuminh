@@ -34,7 +34,6 @@ I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI 
 Drop a star to support me!
 
 ### My other repos
-* [smallm](https://github.com/nguyenphuminh/smallm) - a tiny language model written and trained from scratch.
 * [shakespeare-lm](https://github.com/nguyenphuminh/shakespeare-lm) - a tiny model to generate Shakespeare-style text, written in Catniff.
 * [catbrain](https://github.com/nguyenphuminh/catbrain) - GPU accelerated neural networks made simple for Javascript.
 * [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
