@@ -1,7 +1,5 @@
 # print[] Hello there 👋
 
-<br/>
-
 ## About me 📓
 I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI as well.
 
