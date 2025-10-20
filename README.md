@@ -4,6 +4,7 @@
 I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI as well.
 
 ## Achievements 🎊
+* **Won 2nd place in the 2025 VietBUIDL Hackathon.**
 * **Won the 2025 Core Global Gaming Hackathon.**
 * **Won the 2022 Polygon BUIDL IT Hackathon.**
 * **Won the 2022 Polkadot Hackathon: North America Edition - ICE Network Challenge.**
