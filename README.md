@@ -27,7 +27,7 @@ I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI 
   <br/>
   <a href="https://github.com/nguyenphuminh/catniff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catniff"/></a>
   <br/>
-  <a href="https://github.com/nguyenphuminh/smallm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=smallm"/></a>
+  <a href="https://github.com/nguyenphuminh/planckgpt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=planckgpt"/></a>
 </div>
 
 Drop a star to support me!
