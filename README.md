@@ -62,5 +62,5 @@ Find me on:
 * Gmail: nguyenphuminh09876543@gmail.com
 * [Youtube](https://www.youtube.com/channel/UCfoL6jxesUq0urUHBqXY1WA)
 * [dev.to](https://dev.to/freakcdev297)
-* [Twitter](https://twitter.com/NguynPhMinh8)
+* [Twitter](https://twitter.com/npminhtns)
 * [Viblo](https://viblo.asia/u/freakcdev)
