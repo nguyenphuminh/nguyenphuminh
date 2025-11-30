@@ -1,9 +1,11 @@
 # print[] Hello there 👋
 
 ## About me 📓
+
 I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI as well.
 
 ## Achievements 🎊
+
 * **Won 2nd place in the 2025 VietBUIDL Hackathon.**
 * **Won the 2025 Core Global Gaming Hackathon.**
 * **Won the 2022 Polygon BUIDL IT Hackathon.**
@@ -12,6 +14,7 @@ I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI 
 * Created JeChain - a smart contract supported blockchain network.
 
 ## Skills 💪
+
 * Building distributed systems.
 * Blockchain infrastructure development.
 * AI/ML/DL engineering.
@@ -22,17 +25,15 @@ I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI 
 * Content writer?
 
 ## My main projects 🤩
-<div align="center">
-  <a href="https://github.com/nguyenphuminh/JeChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=JeChain"/></a>
-  <br/>
-  <a href="https://github.com/nguyenphuminh/catniff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=catniff"/></a>
-  <br/>
-  <a href="https://github.com/nguyenphuminh/planckgpt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenphuminh&repo=planckgpt"/></a>
-</div>
+
+* [JeChain](https://github.com/nguyenphuminh/JeChain) - Decentralized application platform and smart contract blockchain network.
+* [catniff](https://github.com/nguyenphuminh/catniff) - Torch-like deep learning framework for Javascript.
+* [planckgpt](https://github.com/nguyenphuminh/planckgpt) - Train a GPT from scratch on your laptop.
 
 Drop a star to support me!
 
 ### My other repos
+
 * [shakespeare-lm](https://github.com/nguyenphuminh/shakespeare-lm) - a tiny model to generate Shakespeare-style text, written in Catniff.
 * [catbrain](https://github.com/nguyenphuminh/catbrain) - GPU accelerated neural networks made simple for Javascript.
 * [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
@@ -50,7 +51,9 @@ Drop a star to support me!
 * [Pigeon Blockchain](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a paper on building a blockchain network with pigeons.
 
 ### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
+
 Check out each part in the series:
+
 * [Creating a blockchain in 60 lines of Javascript ](https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka).
 * [Creating a cryptocurrency - Creating transactions, mining rewards, mint and gas fee ](https://dev.to/freakcdev297/creating-transactions-mining-rewards-mint-and-gas-fee-5hhf).
 * [Build a p2p network and release your cryptocurrency ](https://dev.to/freakcdev297/build-a-p2p-network-and-release-your-cryptocurrency-clf).
@@ -58,7 +61,9 @@ Check out each part in the series:
 Or view source code of each part [here](https://github.com/nguyenphuminh/blockchain-tutorial).
 
 ## Contact ☎️
+
 Find me on:
+
 * Gmail: nguyenphuminh09876543@gmail.com
 * [Youtube](https://www.youtube.com/channel/UCfoL6jxesUq0urUHBqXY1WA)
 * [dev.to](https://dev.to/freakcdev297)
