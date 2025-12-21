@@ -30,12 +30,12 @@ I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI 
 |---------|-------------|------|-------|
 | **[JeChain](https://github.com/nguyenphuminh/JeChain)** | Decentralized app platform & smart contract blockchain | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/nguyenphuminh/JeChain?style=flat) ![](https://img.shields.io/github/forks/nguyenphuminh/JeChain?style=flat) |
 | **[catniff](https://github.com/nguyenphuminh/catniff)** | Torch-like deep learning framework for JS | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/nguyenphuminh/catniff?style=flat) ![](https://img.shields.io/github/forks/nguyenphuminh/catniff?style=flat) |
+| **[planckgpt](https://github.com/nguyenphuminh/planckgpt)** | Train a GPT from scratch on your laptop | ![Py](https://img.shields.io/badge/-Py-3776AB?style=flat&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/nguyenphuminh/planckgpt?style=flat) ![](https://img.shields.io/github/forks/nguyenphuminh/planckgpt?style=flat) |
 
 Drop a star to support me!
 
 ### My other repos
 
-* [planckgpt](https://github.com/nguyenphuminh/planckgpt) - train a GPT from scratch on your laptop.
 * [shakespeare-lm](https://github.com/nguyenphuminh/shakespeare-lm) - a tiny model to generate Shakespeare-style text, written in Catniff.
 * [catbrain](https://github.com/nguyenphuminh/catbrain) - GPU accelerated neural networks made simple for Javascript.
 * [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
