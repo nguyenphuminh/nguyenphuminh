@@ -48,6 +48,7 @@ Drop a star to support me!
 * [Catto](https://github.com/nguyenphuminh/Catto) - an UCI chess engine.
 * [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
 * [Casio Coding](https://github.com/nguyenphuminh/casio-coding) - documents on how to program on "non-programmable" Casio calculators.
+* [Casio Machine Learning](https://github.com/nguyenphuminh/casio-machine-learning) - documents on how to do ML on Casio calculators.
 * [Hufflime](https://github.com/nguyenphuminh/hufflime) - Sublime Text syntax highlighting for Huff.
 * [HelloWorld](https://github.com/nguyenphuminh/HelloWorld) - a list of Hello, World! programs written in hundreds of languages.
 * [Pigeon Blockchain](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a paper on building a blockchain network with pigeons.
