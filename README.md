@@ -36,22 +36,17 @@ Drop a star to support me!
 
 ### My other repos
 
-* [shakespeare-lm](https://github.com/nguyenphuminh/shakespeare-lm) - a tiny model to generate Shakespeare-style text, written in Catniff.
-* [catbrain](https://github.com/nguyenphuminh/catbrain) - GPU accelerated neural networks made simple for Javascript.
+* [PySquared](https://github.com/nguyenphuminh/pysquared) - a Python interpreter written in Python itself.
 * [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
+* [catbrain](https://github.com/nguyenphuminh/catbrain) - GPU accelerated neural networks made simple for Javascript.
+* [Catto](https://github.com/nguyenphuminh/Catto) - an UCI chess engine.
 * [90deg](https://github.com/nguyenphuminh/90deg) - an OISC centered around vector dot product and addition.
 * [FreakC](https://github.com/FreakC-Foundation/FreakC) - an experimental Batch-like language that compiles to Batch.
 * [Petite Lisp](https://github.com/nguyenphuminh/petite-lisp) - a simple Lisp dialect that transpiles to JS.
 * [Reval](https://github.com/nguyenphuminh/reval) - 0.4 kb React-based front-end library code golf.
 * [cmdweb](https://github.com/nguyenphuminh/cmdweb) - a web framework for Batch.
-* [brainsuck](https://github.com/nguyenphuminh/brainsuck) - web development... in Brainf*ck.
-* [Catto](https://github.com/nguyenphuminh/Catto) - an UCI chess engine.
-* [JellyAV](https://github.com/nguyenphuminh/JellyAV) - a j4f antivirus software written in Batch.
 * [Casio Coding](https://github.com/nguyenphuminh/casio-coding) - documents on how to program on "non-programmable" Casio calculators.
 * [Casio Machine Learning](https://github.com/nguyenphuminh/casio-machine-learning) - documents on how to do ML on Casio calculators.
-* [Hufflime](https://github.com/nguyenphuminh/hufflime) - Sublime Text syntax highlighting for Huff.
-* [HelloWorld](https://github.com/nguyenphuminh/HelloWorld) - a list of Hello, World! programs written in hundreds of languages.
-* [Pigeon Blockchain](https://github.com/nguyenphuminh/Pigeon-Blockchain) - a paper on building a blockchain network with pigeons.
 
 ### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
 
