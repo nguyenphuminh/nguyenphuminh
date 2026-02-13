@@ -36,7 +36,8 @@ Drop a star to support me!
 
 ### My other repos
 
-* [PySquared](https://github.com/nguyenphuminh/pysquared) - a Python interpreter written in Python itself.
+* [kippy](https://github.com/nguyenphuminh/kippy) - a 2D web game engine for JS.
+* [pysquared](https://github.com/nguyenphuminh/pysquared) - a Python interpreter written in Python itself.
 * [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
 * [catbrain](https://github.com/nguyenphuminh/catbrain) - GPU accelerated neural networks made simple for Javascript.
 * [Catto](https://github.com/nguyenphuminh/Catto) - an UCI chess engine.
