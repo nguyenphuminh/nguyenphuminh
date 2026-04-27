@@ -37,6 +37,7 @@ Drop a star to support me!
 
 ### My other repos
 
+* [minos](https://github.com/nguyenphuminh/minos) - a simple x86 assembly OS kernel to print out "Hello, World!".
 * [pysquared](https://github.com/nguyenphuminh/pysquared) - a Python interpreter written in Python itself.
 * [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
 * [catbrain](https://github.com/nguyenphuminh/catbrain) - GPU accelerated neural networks made simple for Javascript.
