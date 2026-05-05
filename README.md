@@ -30,8 +30,8 @@ I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI 
 |---------|-------------|------|-------|
 | **[JeChain](https://github.com/nguyenphuminh/JeChain)** | Decentralized app platform & smart contract blockchain | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/nguyenphuminh/JeChain?style=flat) ![](https://img.shields.io/github/forks/nguyenphuminh/JeChain?style=flat) |
 | **[catniff](https://github.com/nguyenphuminh/catniff)** | Torch-like deep learning framework for JS | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/nguyenphuminh/catniff?style=flat) ![](https://img.shields.io/github/forks/nguyenphuminh/catniff?style=flat) |
-| **[kippy](https://github.com/nguyenphuminh/kippy)** | 2D web game engine for JS | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/nguyenphuminh/kippy?style=flat) ![](https://img.shields.io/github/forks/nguyenphuminh/kippy?style=flat) |
 | **[planckgpt](https://github.com/nguyenphuminh/planckgpt)** | Train a GPT from scratch on your laptop | ![Py](https://img.shields.io/badge/-Py-3776AB?style=flat&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/nguyenphuminh/planckgpt?style=flat) ![](https://img.shields.io/github/forks/nguyenphuminh/planckgpt?style=flat) |
+| **[kippy](https://github.com/nguyenphuminh/kippy)** | 2D web game engine for JS | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/nguyenphuminh/kippy?style=flat) ![](https://img.shields.io/github/forks/nguyenphuminh/kippy?style=flat) |
 
 Drop a star to support me!
 
