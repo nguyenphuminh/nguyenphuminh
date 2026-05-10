@@ -2,7 +2,7 @@
 
 ## About me 📓
 
-I'm Minh, a blockchain and distributed systems enthusiast who is dabbling in AI as well.
+I'm Minh, an AI and distributed systems enthusiast, and I love building core technology from scratch :D
 
 ## Achievements 🎊
 
