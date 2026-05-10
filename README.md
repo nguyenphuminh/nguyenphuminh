@@ -15,11 +15,11 @@ I'm Minh, an AI and distributed systems enthusiast, and I love building core tec
 
 ## Skills 💪
 
+* AI/ML/DL engineering.
 * Building distributed systems.
 * Blockchain infrastructure development.
-* AI/ML/DL engineering.
-* Fullstack web development.
 * Game development.
+* Fullstack web development.
 * Competitive programming.
 * Language design.
 * Content writer?
