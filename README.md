@@ -37,6 +37,7 @@ Drop a star to support me!
 
 ### My other repos
 
+* [mingpu](https://github.com/nguyenphuminh/mingpu) - an extremely minimal GPU architecture written from scratch.
 * [minos](https://github.com/nguyenphuminh/minos) - a simple x86 assembly OS kernel to print out "Hello, World!".
 * [pysquared](https://github.com/nguyenphuminh/pysquared) - a Python interpreter written in Python itself.
 * [smolsurf](https://github.com/nguyenphuminh/smolsurf) - a text-based web browser.
