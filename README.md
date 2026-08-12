@@ -50,6 +50,7 @@ Drop a star to support me!
 * [cmdweb](https://github.com/nguyenphuminh/cmdweb) - a web framework for Batch.
 * [Casio Coding](https://github.com/nguyenphuminh/casio-coding) - documents on how to program on "non-programmable" Casio calculators.
 * [Casio Machine Learning](https://github.com/nguyenphuminh/casio-machine-learning) - documents on how to do ML on Casio calculators.
+* [Mincrypt](https://github.com/nguyenphuminh/mincrypt) - a simple manual encryption protocol and scripts for passing messages around public channels.
 
 ### [My blockchain tutorial series](https://dev.to/freakcdev297/series/15322)
 
